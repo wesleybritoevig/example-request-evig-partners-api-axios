@@ -1,0 +1,88 @@
+{
+    "properties": [
+        {
+            "partnerPropertyId": "???",
+            "partnerPropertyUrl": "https://partnerdomain.com/properties/partnerPropertyId",
+            "imageUrl": "https://storage.cloud.com/v/b/storage/o/path/image_name",
+            "types": {
+                "propertyType": "APARTMENT|HOUSE",
+                "subTypeHouse": "DEFAULT|CONDOMINIUM",
+                "subTypeApartment": "DEFAULT|DUPLEX|PENTHOUSE|STUDIO|TRIPLEX|COMBINED"
+            },
+            "price": 10000.01,
+            "address": {
+                "state": "SP",
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "street": "Rua dos Pinheiros"
+            },
+            "coordinate": {
+                "latitude": -23.5677563,
+                "longitude": -46.6929269
+            },
+            "condominiumFee": 200.01,
+            "iptuPrice": 100.01,
+            "utilArea": 10,
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "suites": 0,
+            "parking": 0
+        },
+        {
+            "partnerPropertyId": "???1",
+            "partnerPropertyUrl": "https://partnerdomain.com/properties/partnerPropertyId",
+            "imageUrl": "https://storage.cloud.com/v/b/storage/o/path/image_name",
+            "types": {
+                "propertyType": "APARTMENT|HOUSE",
+                "subTypeHouse": "DEFAULT|CONDOMINIUM",
+                "subTypeApartment": "DEFAULT|DUPLEX|PENTHOUSE|STUDIO|TRIPLEX|COMBINED"
+            },
+            "price": 10000.01,
+            "address": {
+                "state": "SP",
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "street": "Rua dos Pinheiros"
+            },
+            "coordinate": {
+                "latitude": -23.5677563,
+                "longitude": -46.6929269
+            },
+            "condominiumFee": 200.01,
+            "iptuPrice": 100.01,
+            "utilArea": 10,
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "suites": 0,
+            "parking": 0
+        },
+        {
+            "partnerPropertyId": "???2",
+            "partnerPropertyUrl": "https://partnerdomain.com/properties/partnerPropertyId",
+            "imageUrl": "https://storage.cloud.com/v/b/storage/o/path/image_name",
+            "types": {
+                "propertyType": "APARTMENT|HOUSE",
+                "subTypeHouse": "DEFAULT|CONDOMINIUM",
+                "subTypeApartment": "DEFAULT|DUPLEX|PENTHOUSE|STUDIO|TRIPLEX|COMBINED"
+            },
+            "price": 10000.01,
+            "address": {
+                "state": "SP",
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "street": "Rua dos Pinheiros"
+            },
+            "coordinate": {
+                "latitude": -23.5677563,
+                "longitude": -46.6929269
+            },
+            "condominiumFee": 200.01,
+            "iptuPrice": 100.01,
+            "utilArea": 10,
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "suites": 0,
+            "parking": 0
+        }
+    ]
+}

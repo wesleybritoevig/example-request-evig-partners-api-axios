@@ -1,0 +1,23 @@
+{
+  "name": "example-request-evig-partners-api-axios",
+  "version": "1.0.0",
+  "main": "dist/main/main.js",
+  "scripts": {
+    "start": "node dist/main/main.js",
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wesley.brito@evig.com.br",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "js2xmlparser": "^5.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/xml2js": "^0.4.14"
+  }
+}

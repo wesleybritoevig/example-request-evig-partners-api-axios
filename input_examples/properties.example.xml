@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyCreate>
+	<properties>
+		<Property>
+			<partnerPropertyId>???</partnerPropertyId>
+			<partnerPropertyUrl>https://partnerdomain.com/properties/partnerPropertyId</partnerPropertyUrl>
+			<imageUrl>https://storage.cloud.com/v/b/storage/o/path/image_name</imageUrl>
+			<types>
+				<propertyType>APARTMENT|HOUSE</propertyType>
+				<subTypeHouse>DEFAULT|CONDOMINIUM</subTypeHouse>
+				<subTypeApartment>DEFAULT|DUPLEX|PENTHOUSE|STUDIO|TRIPLEX|COMBINED</subTypeApartment>
+			</types>
+			<price>10000.01</price>
+			<address>
+				<state>SP</state>
+				<city>São Paulo</city>
+				<neighborhood>Pinheiros</neighborhood>
+				<street>Rua dos Pinheiros</street>
+			</address>
+			<coordinate>
+				<latitude>-23.5677563</latitude>
+				<longitude>-46.6929269</longitude>
+			</coordinate>
+			<condominiumFee>200.01</condominiumFee>
+			<iptuPrice>100.01</iptuPrice>
+			<utilArea>10</utilArea>
+			<bedrooms>1</bedrooms>
+			<bathrooms>1</bathrooms>
+			<suites>0</suites>
+			<parking>0</parking>
+		</Property>
+        <Property>
+			<partnerPropertyId>???1</partnerPropertyId>
+			<partnerPropertyUrl>https://partnerdomain.com/properties/partnerPropertyId</partnerPropertyUrl>
+			<imageUrl>https://storage.cloud.com/v/b/storage/o/path/image_name</imageUrl>
+			<types>
+				<propertyType>APARTMENT|HOUSE</propertyType>
+				<subTypeHouse>DEFAULT|CONDOMINIUM</subTypeHouse>
+				<subTypeApartment>DEFAULT|DUPLEX|PENTHOUSE|STUDIO|TRIPLEX|COMBINED</subTypeApartment>
+			</types>
+			<price>10000.01</price>
+			<address>
+				<state>SP</state>
+				<city>São Paulo</city>
+				<neighborhood>Pinheiros</neighborhood>
+				<street>Rua dos Pinheiros</street>
+			</address>
+			<coordinate>
+				<latitude>-23.5677563</latitude>
+				<longitude>-46.6929269</longitude>
+			</coordinate>
+			<condominiumFee>200.01</condominiumFee>
+			<iptuPrice>100.01</iptuPrice>
+			<utilArea>10</utilArea>
+			<bedrooms>1</bedrooms>
+			<bathrooms>1</bathrooms>
+			<suites>0</suites>
+			<parking>0</parking>
+		</Property>
+        <Property>
+			<partnerPropertyId>???2</partnerPropertyId>
+			<partnerPropertyUrl>https://partnerdomain.com/properties/partnerPropertyId</partnerPropertyUrl>
+			<imageUrl>https://storage.cloud.com/v/b/storage/o/path/image_name</imageUrl>
+			<types>
+				<propertyType>APARTMENT|HOUSE</propertyType>
+				<subTypeHouse>DEFAULT|CONDOMINIUM</subTypeHouse>
+				<subTypeApartment>DEFAULT|DUPLEX|PENTHOUSE|STUDIO|TRIPLEX|COMBINED</subTypeApartment>
+			</types>
+			<price>10000.01</price>
+			<address>
+				<state>SP</state>
+				<city>São Paulo</city>
+				<neighborhood>Pinheiros</neighborhood>
+				<street>Rua dos Pinheiros</street>
+			</address>
+			<coordinate>
+				<latitude>-23.5677563</latitude>
+				<longitude>-46.6929269</longitude>
+			</coordinate>
+			<condominiumFee>200.01</condominiumFee>
+			<iptuPrice>100.01</iptuPrice>
+			<utilArea>10</utilArea>
+			<bedrooms>1</bedrooms>
+			<bathrooms>1</bathrooms>
+			<suites>0</suites>
+			<parking>0</parking>
+		</Property>
+	</properties>
+</PropertyCreate>
